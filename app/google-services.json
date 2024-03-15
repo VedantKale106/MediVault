@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "983872300571",
+    "project_id": "medivault-51cf9",
+    "storage_bucket": "medivault-51cf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983872300571:android:6a08bf3a3cbdd1b7243abe",
+        "android_client_info": {
+          "package_name": "com.vedant.medivault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYf8YGUyL7QfdFnhsxQpO_Es1V773xzCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
